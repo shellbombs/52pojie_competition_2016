@@ -1,0 +1,6 @@
+TARGETNAME=ProcMon
+TARGETPATH=SYS
+TARGETTYPE=DRIVER
+
+SOURCES = ProcMon.c \
+			HelperFunc.c
